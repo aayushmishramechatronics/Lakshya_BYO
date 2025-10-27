@@ -1,17 +1,14 @@
 # Soil Moisture Sensor with Leds on Arduino
-## Know when your plant has to be watered
-This tutorial shows you how you can know when you have to water your plants. If the green led is shining your plant is fine. You can wait until the yellow led is shining. Then you need to water your plant. If the blue led is shining you have overwatered your plant. Wait until the yellow led is shining with watering your plant.
 ## Material
 You need the following things for this tutorial.
 - Arduino Uno
-- 1 soil moisture sensor for Arduino
-- 3 leds in different colors
-- 3 220-ohm-resistors
-- about 8 cables
-## Time
-Depends on your experience. The experiment can take about 45 minutes.
+- Soil Moisture Sensor for Arduino (x1)
+- RGB LEDs (x3)
+- 220-Ohm-Resistors (x3)
+- Jumper Wires (x9)
 ## Level
 Beginner
 ## Circuit Illustration
-![Soil moisture sensor with led output on Arduino](/images/SoilMoisture-Led-Arduino.png)
+![Soil Moisture Sensor with LED Output on Arduino]<img width="3000" height="2659" alt="circuit_image" src="https://github.com/user-attachments/assets/a207ee9d-9e96-4a92-bdb0-06f087a3e872" />
+
 
