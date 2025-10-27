@@ -9,6 +9,6 @@ You need the following things for this tutorial.
 ## Level
 Beginner
 ## Circuit Illustration
-![Soil Moisture Sensor with LED Output on Arduino]<img width="3000" height="2659" alt="circuit_image" src="https://github.com/user-attachments/assets/a207ee9d-9e96-4a92-bdb0-06f087a3e872" />
+[Soil Moisture Sensor with LED Output on Arduino]<img width="3000" height="2659" alt="circuit_image" src="https://github.com/user-attachments/assets/a207ee9d-9e96-4a92-bdb0-06f087a3e872" />
 
 
